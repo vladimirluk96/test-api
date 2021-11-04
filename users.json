@@ -1,5 +1,5 @@
 {
-    "items": [
+    "items": {
         {
             "id": "1",
             "name": "Andrew",
@@ -49,5 +49,5 @@
             "followed": "false"
         }
 
-    ]
+}
 }
