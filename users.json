@@ -1,0 +1,53 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "name": "Andrew",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "followed": "true"
+        },
+        {
+            "id": "2",
+            "name": "Jacob",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "followed": "true"
+        },
+        {
+            "id": "3",
+            "name": "Michael",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "followed": "false"
+        },
+        {
+            "id": "4",
+            "name": "Jhon",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "followed": "false",
+        },
+        {
+            "id": "101",
+            "name": "Andrew",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "followed": "true"
+        },
+        {
+            "id": "202",
+            "name": "Jacob",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "followed": "true"
+        },
+        {
+            "id": "303",
+            "name": "Michael",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "followed": "false"
+        },
+        {
+            "id": "404",
+            "name": "Jhon",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "followed": "false"
+        }
+
+    ]
+}
