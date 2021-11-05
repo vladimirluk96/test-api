@@ -1,116 +1,77 @@
 {
-  "items": [
-    {
-      "name": "DenGraur",
-      "id": 20620,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
+    "items": [
+      {
+        "description": "DenGraur",
+        "id": 20620,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
       },
-      "status": null,
-      "followed": false
-    },
-    {
-      "name": "SpanDetectea",
-      "id": 20619,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
+      {
+        "description": "SpanDetectea",
+        "id": 20619,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
       },
-      "status": null,
-      "followed": false
-    },
-    {
-      "name": "Triumphant",
-      "id": 20618,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
+      {
+        "description": "Triumphant",
+        "id": 20618,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
       },
-      "status": null,
-      "followed": false
-    },
-    {
-      "name": "leather_man777",
-      "id": 20617,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
+      {
+        "description": "leather_man777",
+        "id": 20617,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
       },
-      "status": null,
-      "followed": false
-    },
-    {
-      "name": "leather_man666",
-      "id": 20616,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
+      {
+        "description": "leather_man666",
+        "id": 20616,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
       },
-      "status": null,
-      "followed": false
-    },
-    {
-      "name": "tuberkulbek",
-      "id": 20615,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
+      {
+        "description": "tuberkulbek",
+        "id": 20615,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
       },
-      "status": null,
-      "followed": false
-    },
-    {
-      "name": "yahoo66x",
-      "id": 20614,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
+      {
+        "description": "yahoo66x",
+        "id": 20614,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
       },
-      "status": null,
-      "followed": false
-    },
-    {
-      "name": "vadzimka0",
-      "id": 20613,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
+      {
+        "description": "vadzimka0",
+        "id": 20613,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
       },
-      "status": null,
-      "followed": false
-    },
-    {
-      "name": "AltV",
-      "id": 20612,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
+      {
+        "description": "AltV",
+        "id": 20612,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
       },
-      "status": null,
-      "followed": false
-    },
-    {
-      "name": "gbpljc",
-      "id": 20611,
-      "uniqueUrlName": null,
-      "photos": {
-        "small": null,
-        "large": null
-      },
-      "status": null,
-      "followed": false
-    }
-  ],
-  "totalCount": 15628,
-  "error": null
-}
+      {
+        "description": "gbpljc",
+        "id": 20611,
+        "image": "http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png",
+        "status": null,
+        "followed": false
+      }
+    ],
+    "totalCount": 15628,
+    "error": null
+  }
+  
